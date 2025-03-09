@@ -1,5 +1,5 @@
 # 💫 About Me:
-🖐🏽 HI, I'm Mohammad Farhangian!<br>Python Developer 🐍 <br>Data Science Enthusiast📊  <br>Passionate about transforming data into solutions. <br><br>🌱 Currently:  <br>- Mastering Advanced Python<br>- Working with Pandas, NumPy  <br>- Data Visualization  <br><br>💡Core Belief:  <br>"Clean code + Curiosity = Progress" 🔍  <br>"Every dataset tells a story." 📖  <br><br>🚀Love for:  <br>• Coding  • Problem-Solving  <br>
+🖐🏽 HI, I'm Mohammad Farhangian!<br>Python Developer | Data Science Enthusiast  <br>Passionate about transforming data into solutions. <br><br>🌱 Currently:  <br>- Mastering Advanced Python<br>- Working with Pandas, NumPy  <br>- Data Visualization  <br><br>💡Core Belief:  <br>"Clean code + Curiosity = Progress" 🔍  <br>"Every dataset tells a story." 📖  <br><br>🚀Love for:  <br>• Coding  • Problem-Solving  <br>
 
 
 ## 🌐 Socials:
