@@ -33,3 +33,7 @@ NumPy        ▰▰▱▱▱▱▱▱▱ 20%
 #### Thanks for visiting :heart:
 ![VisitorCount](https://profile-counter.glitch.me/mohammadfarhangian/count.svg)
 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+</div>
