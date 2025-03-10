@@ -1,24 +1,10 @@
 <!-- Dynamic RGB Typing Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=500&color=58A6FF&center=true&vCenter=true&width=435&repeat=true&lines=Hello+World!;Python+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2500&pause=500&color=2a28b4&center=true&vCenter=true&width=435&repeat=true&lines=Hello+World!;Python+Developer;Data+Science+Enthusiast;Open+Source+Contributor" alt="Typing Animation">
 </div>
 
 # 💫 About Me:
-🖐🏽 HI, I'm Mohammad Farhangian!
-Python Developer | Data Science Enthusiast
-Passionate about transforming data into solutions.
-
-🌱 Currently:
-- Mastering Advanced Python
-- Working with Pandas, NumPy
-- Data Visualization
-
-💡Core Belief:
-"Clean code + Curiosity = Progress"
-"Every dataset tells a story."
-
-🚀Love for:
-• Coding • Problem-Solving
+🖐🏽 HI, I'm Mohammad Farhangian!<br>Python Developer | Data Science Enthusiast  <br>Passionate about transforming data into solutions. <br><br>🌱 Currently:  <br>- Mastering Advanced Python<br>- Working with Pandas, NumPy  <br>- Data Visualization  <br><br>💡Core Belief:  <br>"Clean code + Curiosity = Progress"   <br>"Every dataset tells a story."  <br><br>🚀Love for:  <br>• Coding  • Problem-Solving  <br>
 
 ## 🌐 Socials:
 
