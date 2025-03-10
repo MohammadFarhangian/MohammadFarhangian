@@ -18,4 +18,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MohammadFarhangian&icon=5&color=1)](https://visitcount.itsvg.in)
 
+#### Thanks for visiting :heart:
+![VisitorCount](https://profile-counter.glitch.me/mohammadfarhangian/count.svg)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
