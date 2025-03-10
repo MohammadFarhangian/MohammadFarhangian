@@ -1,7 +1,3 @@
-<div align="center">
-  <br>
-  <img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
-</div>
 # 💫 About Me:
 🖐🏽 HI, I'm Mohammad Farhangian!<br>Python Developer | Data Science Enthusiast  <br>Passionate about transforming data into solutions. <br><br>🌱 Currently:  <br>- Mastering Advanced Python<br>- Working with Pandas, NumPy  <br>- Data Visualization  <br><br>💡Core Belief:  <br>"Clean code + Curiosity = Progress"   <br>"Every dataset tells a story."  <br><br>🚀Love for:  <br>• Coding  • Problem-Solving  <br>
 
