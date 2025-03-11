@@ -25,9 +25,9 @@ Pandas       ▰▰▱▱▱▱▱▱▱ 20%
 NumPy        ▰▰▱▱▱▱▱▱▱ 20%  
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MohammadFarhangian&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB)
-![](https://github-readme-streak-stats.herokuapp.com/?user=MohammadFarhangian&theme=dark&hide_border=true&background=0D1117)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadFarhangian&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mohammadfarhangian&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohammadfarhangian&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadfarhangian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=MohammadFarhangian&theme=github-dark&hide_border=true&area=true)
 #### Thanks for visiting :heart:
