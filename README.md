@@ -30,6 +30,7 @@ NumPy        ▰▰▱▱▱▱▱▱▱ 20%
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadfarhangian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=MohammadFarhangian&theme=github-dark&hide_border=true&area=true)
+
 ####  visitotrs :heart:
 ![VisitorCount](https://profile-counter.glitch.me/mohammadfarhangian/count.svg)
 
@@ -40,5 +41,5 @@ NumPy        ▰▰▱▱▱▱▱▱▱ 20%
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&animation=twinkling"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&animation=twinkling"/>
 </div>
