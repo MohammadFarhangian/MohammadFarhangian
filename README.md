@@ -1,6 +1,6 @@
-<!-- Animated Gradient Header -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3FFFD0&height=70&section=header"/>
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=✨+Welcome+to+My+Profile!;👨💻+Python+Developer;📊+Data+Science+Enthusiast;🚀+Open+Source+Contributor" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=✨+Welcome+to+My+Profile!;👨💻+Python+Developer;📊+Data+Science+Enthusiast;🚀+Open+Source+Contributor" alt="Typing Animation">
 </div>
 
 # 💫 About Me:
@@ -30,10 +30,15 @@ NumPy        ▰▰▱▱▱▱▱▱▱ 20%
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadfarhangian&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=MohammadFarhangian&theme=github-dark&hide_border=true&area=true)
-#### Thanks for visiting :heart:
+####  visitotrs :heart:
 ![VisitorCount](https://profile-counter.glitch.me/mohammadfarhangian/count.svg)
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&letterSpacing=1px&duration=4000&pause=100&center=true&vCenter=true&width=435&lines=Thank+you+for+Visiting+!;Have+a+Good+Day+!" alt="Typing SVG">
+  </a>
+</div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer&animation=twinkling"/>
 </div>
