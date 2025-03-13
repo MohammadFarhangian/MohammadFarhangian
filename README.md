@@ -6,7 +6,7 @@
 # 💫 About Me:
 ### 🖐🏽 HI, I'm Mohammad Farhangian!<br>Python Developer | Data Science Enthusiast<br>Passionate about transforming data into solutions.<br><br>🌱 Currently:<br>- Mastering Advanced Python<br>- Working with Pandas, NumPy<br>- Data Visualization<br><br>💡Core Belief:<br>"Clean code + Curiosity = Progress"<br>"Every dataset tells a story."<br><br>🚀Love for:<br>• Coding • Problem-Solving
 
-## 🌐 Socials: 
+# 🌐 Socials: 
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mohmdfarhangian) 
 [![](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mohammadfarhangian)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadfarhangian/)
