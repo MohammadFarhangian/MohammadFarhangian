@@ -1,3 +1,4 @@
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3FFFD0&height=70&section=header"/>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=✨+Welcome+to+My+Profile!;👨💻+Python+Developer;📊+Data+Science+Enthusiast;🚀+Open+Source+Contributor" alt="Typing Animation">
