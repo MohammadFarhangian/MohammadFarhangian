@@ -12,6 +12,20 @@
 
 ---
 
+## 👨‍💻 About Me
+
+> *Curious by nature, I like turning data into insight and ideas into working software.*
+
+I'm a Computer Engineering student at Islamic Azad University, Karaj (class of 2028). My journey started with Python about two years ago, and it has become the language I reach for first, whether I'm exploring a dataset or building something new.
+
+- 🐍 **Python:** about two years of hands-on experience
+- 📊 **Data mining and analysis:** I work comfortably with NumPy, Pandas, Matplotlib and Seaborn to clean, explore and visualize data
+- ⚙️ **Backend:** this is where I want to grow. I'm learning Django, FastAPI and SQL step by step to become a solid backend developer
+- 🤝 **People skills:** as an academic advisor for four years, I've learned how to communicate clearly, manage time and explain complex ideas simply
+- 🎯 **Right now:** looking for an internship where I can apply what I know, learn from a great team, and keep leveling up
+
+---
+
 ## 🛠️ Skills
 
 ### ✅ Intermediate
